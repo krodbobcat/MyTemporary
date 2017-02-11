@@ -1,2 +1,4 @@
 # MyTemporary
-This is K-Rod's branch.
+This is K-Rod. 
+
+New edit from competitor branch.
